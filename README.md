@@ -1,1 +1,1 @@
-reduxxxxxxxxxx is gooooooooooddddd,first time redux
+learned from : [Stephan Grider](https://www.udemy.com/user/sgslo/)
